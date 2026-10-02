@@ -1,0 +1,68 @@
+[
+ {
+  "file": "sharedassets3.assets",
+  "off": 585380,
+  "len": 14,
+  "text": "Бутылка"
+ },
+ {
+  "file": "sharedassets3.assets",
+  "off": 641572,
+  "len": 39,
+  "text": "Молотов_Бутылка_BaseColor"
+ },
+ {
+  "file": "sharedassets3.assets",
+  "off": 649292,
+  "len": 37,
+  "text": "Молотов_Тряпка_Roughness"
+ },
+ {
+  "file": "sharedassets3.assets",
+  "off": 664964,
+  "len": 39,
+  "text": "Молотов_Бутылка_Roughness"
+ },
+ {
+  "file": "sharedassets3.assets",
+  "off": 686572,
+  "len": 37,
+  "text": "Молотов_Тряпка_BaseColor"
+ },
+ {
+  "file": "sharedassets3.assets",
+  "off": 1764020,
+  "len": 18,
+  "text": "Цилиндр.001"
+ },
+ {
+  "file": "sharedassets3.assets",
+  "off": 2561532,
+  "len": 26,
+  "text": "КриваяБезье.001"
+ },
+ {
+  "file": "sharedassets3.assets",
+  "off": 6806268,
+  "len": 18,
+  "text": "Цилиндр.002"
+ },
+ {
+  "file": "sharedassets3.assets",
+  "off": 15316380,
+  "len": 18,
+  "text": "Зажигалка"
+ },
+ {
+  "file": "sharedassets3.assets",
+  "off": 15316416,
+  "len": 39,
+  "text": "Измененная зажигалка"
+ },
+ {
+  "file": "sharedassets3.assets",
+  "off": 15317460,
+  "len": 27,
+  "text": "Пустая бутылка"
+ }
+]
