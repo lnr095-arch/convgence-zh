@@ -9,6 +9,8 @@
 > 本包与 apocalyptic_translatorZ 作者无关，不是官方移植，也不隶属于任何商业发行。
 
 **下载**：[`CONVRGENCE_ZH_v1.0.zip`](https://github.com/lnr095-arch/convgence-zh/releases/latest)（17,660,448 B = 17.66 MB，内含上游 exe）
+`SHA-256 = 224d6954ea4168faa9109465dedff65ec8b6c062784b9c06cc60bd9e81762d51`
+（解压后请先把包内全部内容复制到游戏根目录，再运行 `安装汉化.bat`。）
 
 ---
 
